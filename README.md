@@ -7,9 +7,7 @@ This is the GitHub repository where I save copies of the katas I've completed on
 
 ## What is CodeWars?
 
-It's a cool website where you face challenges and you get leveled by how good
-you do. It isn't limited to JavaScript or any or the languages you can find in
-this repo, it even has Kotlin!
+It's a cool website where you face challenges and work through different problems to level up. It is based on Japanese concept of kata in the martial arts.
 
 ## Leveling System
 
