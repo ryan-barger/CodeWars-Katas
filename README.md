@@ -1,9 +1,9 @@
-# CodeWarsKatas
+# CodeWars Katas
 
 This is the GitHub repository where I save copies of the katas I've completed on
 [codewars.com](https://www.codewars.com/).
 
-[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/hugmanrique)
+[![Profile badge](https://www.codewars.com/users/BRSRKR/badges/large)](https://www.codewars.com/users/BRSRKR)
 
 ## What is CodeWars?
 
@@ -20,7 +20,6 @@ this repo, it even has Kotlin!
 ### R:
 
 #### 8kyu
-* [RegEx - Check if divisible by 0b111 (7)](js/regex_binary_divisible.js)
-
+* 
 
 
