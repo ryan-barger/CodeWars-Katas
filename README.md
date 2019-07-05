@@ -20,6 +20,6 @@ this repo, it even has Kotlin!
 ### R:
 
 #### 8kyu
-* 
+* [Count Odd Numbers below n](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Count%20Odd%20Numbers%20below%20n)
 
 
