@@ -19,5 +19,6 @@ It's a cool website where you face challenges and work through different problem
 
 #### 8kyu
 * [Count Odd Numbers below n](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Count%20Odd%20Numbers%20below%20n)
+* [MakeUpperCase](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20MakeUpperCase)
 
 
