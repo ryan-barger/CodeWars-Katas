@@ -1,0 +1,8 @@
+###Description:
+###Write function makeUpperCase.
+
+makeUpperCase <- function(s) {
+  # your code
+  result <- toupper(s)
+  return(result)
+}
