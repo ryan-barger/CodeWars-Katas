@@ -18,6 +18,7 @@ It's a cool website where you face challenges and work through different problem
 ### R:
 
 #### 8kyu
+* [Keep Hydrated!}(https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Keep%20Hydrated!)
 * [Century From Year](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Century%20From%20Year)
 * [Third Angle of a Triangle](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Third%20Angle%20of%20a%20Triangle)
 * [Opposite number](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Opposite%20number)
