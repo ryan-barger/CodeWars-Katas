@@ -18,6 +18,7 @@ It's a cool website where you face challenges and work through different problem
 ### R:
 
 #### 8kyu
+* [Is he gonna survive?](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Is%20he%20gonna%20survive%3F)
 * [Sum Arrays](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Sum%20Arrays)
 * [Keep Hydrated!](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Keep%20Hydrated!)
 * [Century From Year](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Century%20From%20Year)
