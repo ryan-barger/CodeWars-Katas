@@ -18,6 +18,7 @@ It's a cool website where you face challenges and work through different problem
 ### R:
 
 #### 8kyu
+* [Sentence Smash](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Sentence%20Smash)
 * [Pillars](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Pillars)
 * [Calculate BMI](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Calculate%20BMI)
 * [Find the smallest integer in the arrary](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Find%20the%20smallest%20integer%20in%20the%20array)
