@@ -18,6 +18,7 @@ It's a cool website where you face challenges and work through different problem
 ### R:
 
 #### 8kyu
+* [Grasshopper - Summation](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Grasshopper%20-%20Summation)
 * [Sentence Smash](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Sentence%20Smash)
 * [Pillars](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Pillars)
 * [Calculate BMI](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Calculate%20BMI)
