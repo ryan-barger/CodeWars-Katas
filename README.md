@@ -36,4 +36,5 @@ It's a cool website where you face challenges and work through different problem
 
 #### 8kyu
 * [Even or Odd](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/8kyu%20-%20Even%20or%20Odd)
+* [Grasshopper - Terminal game move function](https://github.com/BRSRKR/CodeWars-Katas/tree/master/SQL)
 
