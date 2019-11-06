@@ -34,6 +34,11 @@ It's a cool website where you face challenges and work through different problem
 
 ### SQL:
 
+#### 7kyu
+* [SQL with LOTR: Elven Wildcards](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/7kyu%20-%20SQL%20with%20LOTR:%20Elven%20Wildcards
+)
+
+
 #### 8kyu
 * [Even or Odd](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/8kyu%20-%20Even%20or%20Odd)
 * [Grasshopper - Terminal game move function](https://github.com/BRSRKR/CodeWars-Katas/tree/master/SQL)
