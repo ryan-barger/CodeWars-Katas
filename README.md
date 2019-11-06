@@ -17,6 +17,9 @@ It's a cool website where you face challenges and work through different problem
 
 ### R:
 
+#### 7kyu
+* [Love vs friendship](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/7kyu%20-%20Love%20vs%20friendship)
+
 #### 8kyu
 * [Grasshopper - Summation](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Grasshopper%20-%20Summation)
 * [Sentence Smash](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Sentence%20Smash)
