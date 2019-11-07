@@ -40,6 +40,8 @@ It's a cool website where you face challenges and work through different problem
 #### 7kyu
 * [SQL with LOTR: Elven Wildcards](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/7kyu%20-%20SQL%20with%20LOTR:%20Elven%20Wildcards
 )
+* [SQL with Street Fighter: Total Wins](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/7kyu%20-%20SQL%20with%20Street%20Fighter:%20Total%20Wins)
+
 
 
 #### 8kyu
