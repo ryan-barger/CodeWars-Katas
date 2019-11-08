@@ -15,12 +15,17 @@ It's a cool website where you face challenges and work through different problem
 
 ## List of Challenges
 
-### R:
+### 7kyu:
 
-#### 7kyu
+#### R
 * [Love vs friendship](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/7kyu%20-%20Love%20vs%20friendship)
+#### SQL
+* [SQL with LOTR: Elven Wildcards](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/7kyu%20-%20SQL%20with%20LOTR:%20Elven%20Wildcards)
+* [SQL with Street Fighter: Total Wins](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/7kyu%20-%20SQL%20with%20Street%20Fighter:%20Total%20Wins)
 
-#### 8kyu
+### 8kyu
+
+#### R
 * [Grasshopper - Summation](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Grasshopper%20-%20Summation)
 * [Sentence Smash](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Sentence%20Smash)
 * [Pillars](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Pillars)
@@ -35,16 +40,7 @@ It's a cool website where you face challenges and work through different problem
 * [MakeUpperCase](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20MakeUpperCase)
 * [Count Odd Numbers below n](https://github.com/BRSRKR/CodeWars-Katas/blob/master/R/8kyu%20-%20Count%20Odd%20Numbers%20below%20n)
 
-### SQL:
-
-#### 7kyu
-* [SQL with LOTR: Elven Wildcards](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/7kyu%20-%20SQL%20with%20LOTR:%20Elven%20Wildcards
-)
-* [SQL with Street Fighter: Total Wins](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/7kyu%20-%20SQL%20with%20Street%20Fighter:%20Total%20Wins)
-
-
-
-#### 8kyu
+#### SQL
 * [Even or Odd](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/8kyu%20-%20Even%20or%20Odd)
 * [Grasshopper - Terminal game move function](https://github.com/BRSRKR/CodeWars-Katas/tree/master/SQL)
 
