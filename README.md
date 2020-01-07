@@ -15,6 +15,12 @@ It's a cool website where you face challenges and work through different problem
 
 ## List of Challenges
 
+### 6kyu:
+
+#### SQL
+* [SQL Basics: Simple table totaling](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20SQL%20Basics:%20Simple%20table%20totaling)
+
+
 ### 7kyu:
 
 #### R
