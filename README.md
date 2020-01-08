@@ -19,6 +19,7 @@ It's a cool website where you face challenges and work through different problem
 
 #### SQL
 * [SQL Basics: Simple table totaling](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20SQL%20Basics:%20Simple%20table%20totaling)
+* [Calculating Batting Average](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20Calculating%20Batting%20Average)
 
 
 ### 7kyu:
