@@ -18,6 +18,7 @@ It's a cool website where you face challenges and work through different problem
 ### 6kyu:
 
 #### SQL
+* [SQL Basics: Simple NULL handling](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20SQL%20Basics:%20Simple%20NULL%20handling)
 * [SQL Basics: Simple WITH](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20SQL%20Basics:%20Simple%20WITH)
 * [SQL Basics: Simple EXISTS](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20SQL%20Basics:%20Simple%20EXISTS)
 * [SQL Basics: Simple HAVING](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20SQL%20Basics:%20Simple%20HAVING)
