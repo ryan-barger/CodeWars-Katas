@@ -18,6 +18,7 @@ It's a cool website where you face challenges and work through different problem
 ### 6kyu:
 
 #### SQL
+* [SQL Basics: Simple JOIN and RANK](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20SQL%20Basics:%20Simple%20JOIN%20and%20RANK)
 * [SQL Basics: Create a FUNCTION (DATES)](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20SQL%20Basics:%20Create%20a%20FUNCTION%20(DATES))
 * [Conditional Count](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20Conditional%20Count)
 * [SQL Basics: Simple NULL handling](https://github.com/BRSRKR/CodeWars-Katas/blob/master/SQL/6kyu%20-%20SQL%20Basics:%20Simple%20NULL%20handling)
